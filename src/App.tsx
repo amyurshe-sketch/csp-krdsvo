@@ -24,8 +24,8 @@ function App() {
         <section id="hero" className="hero">
           <div className="hero__overlay" />
           <div className="hero__content">
-            <h1>Центр социальной реабилитации</h1>
-            <p className="hero__tagline">военный психолог</p>
+            <h1>Надежный тыл</h1>
+            <p className="hero__tagline">Центр социальной реабилитации</p>
           </div>
         </section>
 
