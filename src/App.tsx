@@ -84,7 +84,7 @@ function App() {
               <img src="/usefull/telegram-logo.svg" alt="Telegram" />
               <span>Телеграм канал</span>
             </a>
-            <a className="donation__credit" href="https://e-omlet.vercel.app/" target="_blank" rel="noreferrer">
+            <a className="donation__credit" href="https://www.e-omlet.ru/" target="_blank" rel="noreferrer">
               Made by
             </a>
           </div>
